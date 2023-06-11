@@ -20,5 +20,9 @@
   "dependencies": {
     "reques": "0.0.1-security",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-plugin-node": "^11.1.0"
   }
 }
